@@ -472,6 +472,8 @@
       "details":
         "People with this type of coupons benefit a 100% discount on travel vouchers or tickets. "
     }
-  ]
+    
+  ],
+  "tickets":[]
 
 }
