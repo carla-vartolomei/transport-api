@@ -1,0 +1,29 @@
+{
+  "iconSectionList" : [
+    {
+      "id":1,
+      "title": 240,
+      "subtitle": "destinations"
+    },
+    {
+      "id":2,
+      "title": 60,
+      "subtitle": "daily routes"
+    },
+    {
+      "id":3,
+      "title": 303,
+      "subtitle": "tickets sold"
+    },
+    {
+      "id":4,
+      "title": 42,
+      "subtitle": "employees"
+    },
+    {
+      "id":5,
+      "title": 23,
+      "subtitle": "autobuses"
+    }
+  ]
+}
