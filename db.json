@@ -2,17 +2,17 @@
   "icon-section-list" : [
     {
       "id":1,
-      "title": 240,
+      "title": 7,
       "subtitle": "destinations"
     },
     {
       "id":2,
-      "title": 60,
+      "title": 296,
       "subtitle": "daily routes"
     },
     {
       "id":3,
-      "title": 303,
+      "title": 4298,
       "subtitle": "tickets sold"
     },
     {
@@ -22,7 +22,7 @@
     },
     {
       "id":5,
-      "title": 23,
+      "title": 48,
       "subtitle": "autobuses"
     }
   ],
